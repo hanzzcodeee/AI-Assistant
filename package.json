@@ -1,0 +1,12 @@
+{
+  "name": "gemini-ai-assistant",
+  "version": "1.0.0",
+  "description": "AI Assistant powered by Google Gemini",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@vercel/node": "^2.0.0"
+  }
+}
